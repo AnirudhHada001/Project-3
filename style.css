@@ -20,7 +20,7 @@ img {
 	justify-content: space-evenly;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 690px) {
 	#pets {
 		flex-wrap: wrap;
 	}
