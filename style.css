@@ -34,7 +34,7 @@ h3 {
 	justify-content: space-evenly;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 757px) {
 	#pets {
 		flex-wrap: wrap;
 	}
