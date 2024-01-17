@@ -1,5 +1,5 @@
 body {
-   background-color: #333333db;
+	background-color: #333333db;
 }
 
 .card {
@@ -8,11 +8,11 @@ body {
 	border-radius: 25px;
 	padding: 10px;
 	margin: 10px;
-   color: rgba(255, 255, 255, 0.786);
+	color: rgba(255, 255, 255, 0.786);
 }
 
 h1 {
-   text-align: center;
+	text-align: center;
 }
 
 img {
