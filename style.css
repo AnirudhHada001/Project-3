@@ -10,6 +10,7 @@ body {
 	margin: 10px;
 	color: rgba(255, 255, 255, 0.786);
 	text-align: justify;
+	box-shadow: cyan;
 }
 
 h1 {
